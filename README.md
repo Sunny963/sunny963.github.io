@@ -69,7 +69,7 @@ Created a **logistics management** app designed for **stock monitoring** and **w
 ## 🏅 Certifications  
 📜 Check out my certifications here: [**My Certificates Portfolio**](https://sunny963.github.io/Certificates/)  
 
-- **Certificate Of Appreciation** in recognition of contribution to the company at Tata CLiQ
+- **Certificate Of Appreciation** in recognition of contribution to the company at Tata CLiQ Luxury
 - **TUL Tech Champion Certificate** for exceptional code support at Tata CLiQ
 - Certifications in **Android Development**, **Kotlin**, **Jetpack Compose**, and more
 
