@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shailesh Singh! 😃
 
 ## 🚀 About Me  
-I'm an **Experienced Android Developer** with **7.5+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
+I'm an **Experienced Android Developer** with **8 years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
 
 - 🔭 **Current Role:** Android Developer at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems).  
 - 💡 **Expertise:** MVVM, Clean Architecture, API Integrations, Firebase Services, and Performance Optimization.  
