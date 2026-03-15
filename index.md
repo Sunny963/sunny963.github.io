@@ -6,13 +6,13 @@ title: Shailesh Singh | Android Developer
 # Shailesh Singh | Android Developer
 
 ## 🚀 About Me  
-I'm an **Experienced Android Developer** with **8.4+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
+I'm a **Senior Android Developer** with **8.4+ years** of experience building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, **Jetpack Compose**, **MVVM**, and **Clean Architecture**, I specialize in developing reliable and maintainable mobile apps that deliver exceptional user experiences.  
 
 ### 💼 Current Role  
-🔭 **Android Developer** at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems).  
+🔭 **Senior Android Developer** at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems)
 
 ### 🧩 Expertise  
-💡 **MVVM**, **Clean Architecture**, **API Integrations**, **Firebase Services**, and **Performance Optimization**.  
+💡 MVVM, Clean Architecture, Jetpack Components, REST API Integrations, Firebase Services, Kotlin Coroutines, and Performance Optimization  
 
 ### 🏆 Achievements  
 - Awarded **TUL Tech Champion Certificate** for outstanding code support at Tata CLiQ.  
@@ -21,9 +21,10 @@ I'm an **Experienced Android Developer** with **8.4+ years** of expertise in bui
 - Improved app stability and performance for multiple e-commerce and utility apps.  
 
 ### 🌱 Learning  
-Exploring **Advanced Android Architectures**, **System Design**, and **Flutter** for cross-platform development.  
+Exploring **Advanced Android Architectures**, **System Design**, **Multi-Module Android Projects**, and **Java Backend Development (Spring Boot)** to strengthen end-to-end mobile application development.  
 
 🎯 **Goal:** To create impactful digital solutions with optimized performance and seamless user experiences.  
+🚀 **Currently open to Senior Android Developer opportunities – Immediate Joiner**
 
 ---
 
@@ -36,10 +37,11 @@ Exploring **Advanced Android Architectures**, **System Design**, and **Flutter**
 ### Frameworks & Tools  
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)  
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-009688?style=for-the-badge&logo=android&logoColor=white)  
+![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Room Database](https://img.shields.io/badge/room%20database-FFD700?style=for-the-badge&logo=sqlite&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)  
+![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### API & Backend  
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)  
@@ -54,12 +56,12 @@ Exploring **Advanced Android Architectures**, **System Design**, and **Flutter**
 ## 📱 Featured Projects  
 
 ### 🔹 **Tata CLiQ (Shopping App)**
-Enhanced critical modules like **Home**, **Product Listing**, **Cart**, and **Wishlist**, improving performance and user satisfaction. Played a key role in bug fixes, feature enhancements, and optimizing Gradle builds.  
+Enhanced critical modules such as Home, Product Listing (PLP), Product Detail Page (PDP), Cart, and Wishlist while improving performance and application stability, improving performance and user satisfaction. Played a key role in bug fixes, feature enhancements, and optimizing Gradle builds.  
 
 ### 🔹 **Tata CLiQ Luxury**
 Developed and maintained key modules, ensuring smooth functionality and performance improvements.  
 
-### 🔹 **Keeviz (Social & Marketplace App)**
+### 🔹 **Kiveez (Social & Marketplace App)**
 A multi-functional app featuring:  
 - **Chat Module:** One-on-one and group chat with audio/video calling (like WhatsApp).  
 - **Social Feed:** Interest-based content sharing with hashtags.  
