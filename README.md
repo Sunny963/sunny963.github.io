@@ -1,90 +1,181 @@
-# Hi there 👋, I'm Shailesh Singh! 😃
+# Hi there 👋, I'm **Shailesh Singh Yadav** 😃
 
-## 🚀 About Me  
-I'm an **Experienced Android Developer** with **8.4+ years** of expertise in building scalable, high-performance mobile applications. Skilled in **Kotlin**, **Java**, and **Jetpack Compose**, I specialize in developing intuitive and feature-rich apps that deliver exceptional user experiences.  
+## 🚀 About Me
+I’m a **Senior Android Developer with 8.4+ years of experience** building scalable and high-performance Android applications using **Kotlin and Java**.
 
-- 🔭 **Current Role:** Android Developer at [Tata CLiQ](https://www.tatacliq.com/) (payroll of TEKsystems).  
-- 💡 **Expertise:** MVVM, Clean Architecture, API Integrations, Firebase Services, and Performance Optimization.  
-- 🏆 **Achievements:**  
-  - Awarded **TUL Tech Champion Certificate** for outstanding code support at Tata CLiQ.  
-  - Reduced app crashes by **15%** and improved load times by **20%** through performance optimizations.  
-  - Led REST API integrations, enhancing data retrieval efficiency by **20%**.  
-  - Improved app stability and performance for multiple e-commerce and utility apps.  
-- 🌱 **Learning:** Advanced Android Architectures, System Design, and Flutter for cross-platform development.  
-- 🎯 **Goal:** To create impactful digital solutions with optimized performance and seamless user experiences.  
+I specialize in modern Android development using **MVVM**, **Clean Architecture**, **Jetpack Compose**, and **Kotlin Coroutines**, focusing on building reliable, maintainable, and user-friendly mobile applications.
+
+I have contributed to **large-scale production Android applications**, improving **performance, stability, and user experience** for thousands of users.
+
+📍 Kanpur, India  
+📧 shailesh2771993@gmail.com  
+📞 +91 8920964465  
 
 ---
 
-## 🛠️ Skills  
+## 💼 Professional Highlights
 
-### Languages  
+- 🔭 **Current Role:** Android Developer at **Tata CLiQ** (Payroll: TEKsystems)
+- 💡 **Core Expertise:** MVVM, Clean Architecture, API Integration, Firebase Services, Performance Optimization
+
+### 🏆 Key Achievements
+- Awarded **TUL Tech Champion Certificate** for exceptional code support at Tata CLiQ
+- Reduced **app crashes by 15%** through performance optimization
+- Improved **app load times by 20%**
+- Optimized **REST API integrations**, improving data retrieval efficiency
+- Delivered scalable Android solutions across **e-commerce, social, logistics, and productivity applications**
+
+### 🌱 Currently Learning
+- Advanced Android Architecture
+- System Design for Mobile Applications
+- Flutter for Cross-Platform Development
+
+### 🎯 Career Goal
+To build impactful digital products with **scalable architecture, optimized performance, and exceptional user experience**.
+
+---
+
+# 🛠️ Technical Skills
+
+## Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frameworks & Tools  
+---
+
+## Android Development
+- Android SDK  
+- Jetpack Components (ViewModel, Navigation, Room)  
+- Jetpack Compose  
+- Material Design  
+- XML UI  
+
+---
+
+## Architecture
+- MVVM  
+- Clean Architecture  
+- MVP  
+- MVC  
+
+---
+
+## Concurrency & Background Processing
+- Kotlin Coroutines  
+- Flow  
+- LiveData  
+- WorkManager  
+- RxJava  
+
+---
+
+## Networking & APIs
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
+
+- RESTful API Integration  
+- Retrofit  
+- OkHttp  
+- JSON Parsing  
+
+---
+
+## Databases
+- Room Database  
+- SQLite  
+- SharedPreferences  
+
+---
+
+## Dependency Injection
+- Hilt  
+- Koin  
+
+---
+
+## Firebase
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+- Authentication  
+- Firestore  
+- Realtime Database  
+- Crashlytics  
+- Remote Config  
+
+---
+
+## Tools
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)  
-![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-009688?style=for-the-badge&logo=android&logoColor=white)  
-![Room Database](https://img.shields.io/badge/room%20database-FFD700?style=for-the-badge&logo=sqlite&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)  
-
-### API & Backend  
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
-
-### Project Management  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-![Agile](https://img.shields.io/badge/Agile%20Development-0052CC?style=for-the-badge)  
+![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
-## 📱 Featured Projects  
+# 📱 Featured Projects
 
-### 🔹 **Tata CLiQ (Shopping App)**
-Enhanced critical modules like **Home**, **Product Listing**, **Cart**, and **Wishlist**, improving performance and user satisfaction. Played a key role in bug fixes, feature enhancements, and optimizing Gradle builds.  
-
-### 🔹 **Tata CLiQ Luxury**
-Developed and maintained key modules, ensuring smooth functionality and performance improvements.  
-
-### 🔹 **Keeviz (Social & Marketplace App)**
-A multi-functional app featuring:  
-- **Chat Module:** One-on-one and group chat with audio/video calling (like WhatsApp).  
-- **Social Feed:** Interest-based content sharing with hashtags.  
-- **Job & Candidate Search:** Integrated Google Maps for location-based job search.  
-- **Matrimony Section:** Match and connect based on preferences.  
-- **Marketplace:** OLX/Facebook Marketplace-style platform for buying and selling products.  
-
-### 🔹 **My Event App**
-A comprehensive **event scheduling** app with integrated task management, built from scratch with optimized performance and a user-friendly interface.  
-
-### 🔹 **Saudi Arabia Academic Calendar**
-Developed a **culturally adapted calendar** app with customizable event notifications, now serving over **500+ educators** across the region.  
-
-### 🔹 **Logistica India**
-Created a **logistics management** app designed for **stock monitoring** and **warehouse optimization**.  
+## 🛍️ Tata CLiQ – E-Commerce Shopping App
+Contributed to developing and enhancing major modules including **Home, Product Listing, Product Details, Cart, Wishlist, and Checkout**, improving performance and stability of a large-scale e-commerce platform.
 
 ---
 
-## 🏅 Certifications  
-📜 Check out my certifications here: [**My Certificates Portfolio**](https://sunny963.github.io/Certificates/)  
-
-- **Certificate Of Appreciation** in recognition of contribution to the company at Tata CLiQ Luxury
-- **TUL Tech Champion Certificate** for exceptional code support at Tata CLiQ
-- Certifications in **Android Development**, **Kotlin**, **Jetpack Compose**, and more
+## 💎 Tata CLiQ Luxury – Premium Shopping Platform
+Developed and maintained high-performance modules tailored for luxury retail users, improving UI consistency and application performance.
 
 ---
 
-## 🏆 Achievements  
+## 🌐 Kiveez – Social & Marketplace Platform
+Built a multi-module social networking application featuring:
 
-- Awarded **TUL Tech Champion Certificate** for exceptional technical support and code contributions at Tata CLiQ.  
-- Successfully optimized Gradle builds, reducing APK size and improving build speed.  
-- Proven track record of improving app stability, reducing crashes by **15%**, and enhancing performance.  
-- Expertise in implementing **MVVM Architecture** and adopting best coding practices for scalable applications.  
+- Real-time messaging with audio/video calling  
+- Social content feed with hashtags  
+- Job and candidate search with Google Maps integration  
+- Matrimony matching module  
+- Marketplace for buying and selling products  
 
 ---
 
-## 🤝 Let's Connect!  
+## 📅 My Event App – Event Management Application
+Designed and built a **complete event management solution** from scratch with features including event scheduling, task management, and notifications.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-singh-8a5108124/)  
-[![Gmail](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailesh2771993@gmail.com)  
+---
+
+## 📆 Saudi Arabia Academic Calendar
+Developed a **localized calendar application** supporting cultural and academic events with customizable notifications.  
+Currently used by **500+ educators and planners**.
+
+---
+
+## 🚚 Logistica India – Logistics Management System
+Developed an Android application for **inventory monitoring and warehouse management**, improving operational efficiency.
+
+---
+
+# 🏅 Certifications
+
+📜 View all certifications here:  
+👉 **[Certificates Portfolio](https://sunny963.github.io/Certificates/)**
+
+- Certificate Of Appreciation – Tata CLiQ Luxury  
+- TUL Tech Champion Certificate – Tata CLiQ  
+- Android Development Certifications – CutShort  
+- Kotlin & Android Certifications – Sololearn  
+
+---
+
+# 🏆 Achievements
+
+- Improved application stability and reduced crashes by **15%**
+- Optimized performance and reduced **app load time by 20%**
+- Delivered scalable Android solutions for **multiple production applications**
+- Implemented modern architecture patterns including **MVVM and Clean Architecture**
+
+---
+
+# 🤝 Let's Connect
+
+I’m currently **open to new opportunities as a Senior Android Developer**.
+
+📧 **Email:** shailesh2771993@gmail.com  
+📞 **Phone:** +91 8920964465  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-singh-8a5108124/)
