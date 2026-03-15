@@ -27,8 +27,8 @@ I have contributed to **large-scale production Android applications**, improving
 
 ### 🌱 Currently Learning
 - Advanced Android Architecture
-- System Design for Mobile Applications
-- Flutter for Cross-Platform Development
+- System Design for Scalable Mobile Applications
+- Backend Development using Java and Spring Boot
 
 ### 🎯 Career Goal
 To build impactful digital products with **scalable architecture, optimized performance, and exceptional user experience**.
