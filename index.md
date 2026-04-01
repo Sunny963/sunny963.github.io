@@ -21,7 +21,7 @@ I'm a **Senior Android Developer** with **8.4+ years** of experience building sc
 - Improved app stability and performance for multiple e-commerce and utility apps.  
 
 ### 🌱 Learning  
-Exploring **Advanced Android Architectures**, **System Design**, **Multi-Module Android Projects**, and **Java Backend Development (Spring Boot)** to strengthen end-to-end mobile application development.  
+Exploring **Advanced Android Architectures**, **System Design**, **Multi‑Module Android Projects**, **Kotlin Multiplatform** (cross‑platform development), and **Java Backend Development (Spring Boot)** to strengthening expertise in end‑to‑end mobile application development.
 
 🎯 **Goal:** To create impactful digital solutions with optimized performance and seamless user experiences.  
 🚀 **Currently open to Senior Android Developer opportunities – Immediate Joiner**
